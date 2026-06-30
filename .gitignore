@@ -1,0 +1,38 @@
+# Build outputs
+build/
+deploy/
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Qt Creator
+.qtcreator/
+*.autosave
+*.user
+*.user.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# App runtime data
+officers.ini
+meeting_draft.ini
+
+# Temp
+*.tmp
+test.txt
+error.txt

@@ -1,0 +1,33 @@
+Level&Project(Full):
+Level 1-Project 1
+Level 1-Project 2
+Level 1-Project 3
+Level 1-Project 4
+Level 2-Project 1
+Level 2-Project 2
+Level 2-Project 3
+Level 3-Project 1
+Level 3-Electives 1
+Level 3-Electives 2
+Level 4-Project 1
+Level 4-Electives 1
+Level 5-Project 1
+Level 5-Electives 1
+
+abbr.:
+L1P1
+L1P2
+L1P3
+L1P4
+L2P1
+L2P2
+L2P3
+L3P1
+L3E1
+L3E2
+L4P1
+L4E1
+L5P1
+L5E1
+
+
